@@ -1,0 +1,1 @@
+git config alias.up =$(cat ./update_script.txt)
