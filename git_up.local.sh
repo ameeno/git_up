@@ -1,1 +1,1 @@
-git config alias.up =$(cat -v ./update_script.txt)
+git config alias.up =$(echo << ./update_script.txt)
